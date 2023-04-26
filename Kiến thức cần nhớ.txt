@@ -1,0 +1,8 @@
+assets là nơi để chứa hình ảnh và video và là nơi có thể show ra cho nta xem
+components là nơi để share source code và những cái tái sử dụng được
+routes định nghĩa đường dẫn router của một website
+store là nơi viết redux
+styles là nơi chứa những file scss
+utils là nơi chứa những function dùng chung
+views là nơi chứa page website
+services là nơi gọi các APi kết nối đến back-end
