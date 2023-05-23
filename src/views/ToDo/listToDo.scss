@@ -1,0 +1,21 @@
+.List-All{
+    .List-Add{
+        .btn-2{
+            margin-left: 5px;
+        }
+    }
+    .List-Todo{
+        margin: 20px;
+            .btn1{
+                margin: 5px;
+                &:hover{
+                    color: red;
+                }
+            }
+            .btn2{
+                &:hover{
+                    color: blue;
+                }
+            }            
+    }
+}

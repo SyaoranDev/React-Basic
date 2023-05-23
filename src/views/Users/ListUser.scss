@@ -1,0 +1,16 @@
+.list-user-container{
+    .list-user-content{
+        .child{
+            width: 300px;
+            margin: 0 auto;
+            margin-top: 20px;
+            height: 30px;
+            border: 2px solid #282C34;
+            cursor: pointer;
+        &:hover{
+            border: 2px solid lightgreen;
+            transition: 1s;
+        }
+        }
+    }
+}
